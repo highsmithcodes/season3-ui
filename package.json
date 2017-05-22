@@ -8,7 +8,7 @@
     "theme",
     "rickandmorty"
   ],
-  "repository": "https://github.com/123fives/season3-ui",
+  "repository": "https://github.com/123Fives/season3-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
