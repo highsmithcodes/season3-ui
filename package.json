@@ -1,7 +1,7 @@
 {
   "name": "season3-ui",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A minimalist Rick and Morty UI theme for Atom.",
   "keywords": [
     "ui",
