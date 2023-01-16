@@ -7,7 +7,7 @@ A minimalist Rick and Morty UI theme for Atom.
 1. Search for this package in atom theme or install via command line
 
 ```bash
-apm install season3-ui
+npm install season3-ui
 ```
 
 <img src="https://github.com/123Fives/season3-ui/blob/master/images/Screencap.PNG" />
